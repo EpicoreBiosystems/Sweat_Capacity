@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<workspace>
+  <project>
+    <path>$WS_DIR$\application\iar\sweat_capacity.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\bootloader\iar\sweat_secure_bootloader_ble.ewp</path>
+  </project>
+  <batchBuild/>
+</workspace>
+
+

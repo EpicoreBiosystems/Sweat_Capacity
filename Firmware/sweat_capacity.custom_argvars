@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<iarUserArgVars>
+  <group active="true" name="Nordic NRF">
+    <variable>
+      <name>NRF_SDK_DIR</name>
+      <value>$PROJ_DIR$\..\..\nRF5_SDK_15.0.0_a53641a</value>
+    </variable>
+    <variable>
+      <name>NRF_SDK_DIR</name>
+      <value>$PROJ_DIR$\..\..\nRF5_SDK_15.0.0_a53641a</value>
+    </variable>
+  </group>
+</iarUserArgVars>
+
+
